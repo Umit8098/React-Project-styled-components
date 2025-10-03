@@ -1,9 +1,9 @@
 
-<h1 align="center">📌 Web Site With Styled Component </h1>
+<h1 align="center">📌 React Styled Components Project – Modern Website Layout </h1>
 
 <div align="center">
   <h3>
-    <a href="https://umit8098.github.io/React-Project-useeffect-hook-fetch/">
+    <a href="https://Umit8098.github.io/React-Project-styled-components">
       🖥️ Demo
     </a>
      | 
@@ -30,11 +30,10 @@
 
 ## ✨ Overview
 
-A simple React app that fetches and displays a list of users using the `useEffect` hook.  
-Data is fetched from [JSONPlaceholder](https://jsonplaceholder.typicode.com/users) API and displayed with avatars.
+
 
 <div align="center"> 
-  <img src="./user-list.png" alt="user list demo" width="700"/> 
+  <img src="./style-component.gif" alt="style-component" width="700"/> 
 </div>
 
 
@@ -42,21 +41,22 @@ Data is fetched from [JSONPlaceholder](https://jsonplaceholder.typicode.com/user
 
 ## 📖 Description
 
-This project demonstrates:
+This project is a responsive landing page built with React and Styled Components. It demonstrates the usage of reusable styled components, responsive layouts, and component-based design.
 
-* ⚛️ Using React functional components and hooks (`useState`, `useEffect`)
-* 🌐 Fetching data from an external API (`fetch`)
-* 🎨 Displaying dynamic data with mapping
-* 🖼️ Using placeholder avatars with [Pravatar](https://i.pravatar.cc/)
+* 🎨 Styled Components ile tamamen component tabanlı stil yönetimi
+* 📱 Responsive tasarım (mobil, tablet, desktop)
+* 🖼️ Reusable UI components (Card, Button, Container, Flex)
+* 🌐 Social icons integration (react-icons)
+* ⚡ Fast development with modern React setup
 
 ---
 
 ## 🚀 Features
 
-- 🔄 Fetch users from API when component mounts
-- 👤 Display each user’s name and avatar
-- 🗂️ Responsive grid layout with Bootstrap classes
-- ⚡ Error handling for failed fetch requests
+- 🔄 
+- 👤 
+- 🗂️ 
+- ⚡ 
 
 ---
 
@@ -101,10 +101,10 @@ project/
 ## 🛠️ Built With
 
 * [React](https://react.dev/)
-* [Bootstrap](https://getbootstrap.com/) (grid layout & styling)
-* [JSONPlaceholder API](https://jsonplaceholder.typicode.com/)
-* [Pravatar](https://i.pravatar.cc/)
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [style-components](https://styled-components.com/docs/basics#motivation)
+* [React Icons](https://www.react-icons.com/)
+* [GitHub Pages (deployment)](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+
 
 ---
 
@@ -132,17 +132,15 @@ $ npm start
 
 ## 📌 About This Project
 
-* Built for educational purposes.
-* Demonstrates how to fetch data from an API in React using useEffect.
-* Showcases mapping over data and rendering UI dynamically.
+This project was built as part of my React learning journey. It focuses on mastering styled-components, building responsive layouts, and practicing modern React development workflows.
+
 
 ---
 
 ## 🙏 Acknowledgements
 
 - [Clarusway](https://clarusway.com/)
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
-- [Pravatar](https://i.pravatar.cc/)
+- [style-components](https://styled-components.com/docs/basics#motivation)
 
 ---
 
