@@ -7,8 +7,8 @@
       🖥️ Demo
     </a>
      | 
-    <a href="https://github.com/Umit8098/React-Project-useeffect-hook-fetch.git">
-      📂 Project
+    <a href="https://github.com/Umit8098/React-Project-styled-components">
+      📂 Repository
     </a>
   </h3>
 </div>
@@ -30,34 +30,32 @@
 
 ## ✨ Overview
 
-
-
 <div align="center"> 
-  <img src="./style-component.gif" alt="style-component" width="700"/> 
+  <img src="./style-component.gif" alt="style-component-demo" width="700"/> 
 </div>
 
+Responsive landing page built with **React** and **Styled Components**, showcasing reusable UI components and modern styling techniques.
 
 ---
 
 ## 📖 Description
 
-This project is a responsive landing page built with React and Styled Components. It demonstrates the usage of reusable styled components, responsive layouts, and component-based design.
+This project demonstrates:
 
-* 🎨 Styled Components ile tamamen component tabanlı stil yönetimi
-* 📱 Responsive tasarım (mobil, tablet, desktop)
-* 🖼️ Reusable UI components (Card, Button, Container, Flex)
-* 🌐 Social icons integration (react-icons)
-* ⚡ Fast development with modern React setup
+- ⚛️ How to build a React application with reusable styled-components  
+- 🎨 Component-based styling without external CSS files  
+- 📱 Fully responsive design (desktop, tablet, and mobile)  
+- 🖼️ Integration of social media icons with `react-icons`  
 
 ---
 
 ## 🚀 Features
 
-- 🔄 
-- 👤 
-- 🗂️ 
-- ⚡ 
-
+- 🎨 **Styled Components** for modular and scoped styling  
+- 🧩 **Reusable UI Components** (Card, Button, Container, Flex, Footer, etc.)  
+- 📱 **Responsive Layouts** with media queries  
+- 🌐 **Social Icons Integration** (Twitter, Facebook, LinkedIn)  
+- 🚀 **Deployed on GitHub Pages** for easy access
 ---
 
 ## 🗂️ Project Skeleton
@@ -100,11 +98,10 @@ project/
 
 ## 🛠️ Built With
 
-* [React](https://react.dev/)
-* [style-components](https://styled-components.com/docs/basics#motivation)
-* [React Icons](https://www.react-icons.com/)
-* [GitHub Pages (deployment)](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-
+- [React](https://react.dev/)  
+- [Styled Components](https://styled-components.com/)  
+- [React Icons](https://react-icons.github.io/react-icons/)  
+- [GitHub Pages](https://pages.github.com/)  
 
 ---
 
@@ -132,15 +129,17 @@ $ npm start
 
 ## 📌 About This Project
 
-This project was built as part of my React learning journey. It focuses on mastering styled-components, building responsive layouts, and practicing modern React development workflows.
-
+- 🎯 This project was built to practice styled-components in React.
+- 🧩 It focuses on reusable components and responsive layouts.
+- 🚀 Aimed at improving modern React development workflow.
 
 ---
 
 ## 🙏 Acknowledgements
 
-- [Clarusway](https://clarusway.com/)
-- [style-components](https://styled-components.com/docs/basics#motivation)
+- [Clarusway](https://clarusway.com/) – for the training resources
+- [Styled Components Docs](https://styled-components.com/docs/basics#motivation)
+- [React Documentation](https://react.dev/)
 
 ---
 
